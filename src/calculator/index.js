@@ -49,7 +49,7 @@ return
           <button onClick={() => calUpdate('+')}>+</button>
           <button onClick={() => calUpdate('-')}>-</button>
 
-          <button onClick={delLast} >DEL</button>
+          <button onClick={delLast} >DELETE</button>
         </div>
 
         <div className='keyword'>
